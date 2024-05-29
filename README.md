@@ -2,6 +2,8 @@
 
 This project demonstrates the simplest form of implementing passkeys (WebAuthn) using Python Flask. It was created as a challenge to understand the passkeys workflow and its implementation.
 
+> :warning: **DO NOT USE THIS PROJECT AS A REFERENCE FOR IMPLEMENTATION IN PRODUCTION**
+
 ## Project Overview
 
 This project consists of a Flask backend that handles WebAuthn registration and authentication processes, and a simple client-side JavaScript for interacting with the WebAuthn API.
